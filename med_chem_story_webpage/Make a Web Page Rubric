@@ -1,0 +1,43 @@
+Make a Web Page
+
+Code Review
+CRITERIA
+MEETS SPECIFICATIONS
+
+Use of Proper Syntax
+-HTML and CSS files pass an automated validation check. Use the following sites
+to validate your files before project submission:
+-HTML Validator
+-CSS Validator
+
+Logical Use of Container Elements for HTML Structure
+-Conceptually related content is contained within a container element such as
+<span>, <div>, section, article and table for example.
+
+Use of HTML Classes
+-Use of 1 or more HTML Classes on 2 or more related HTML elements.
+-Related HTML elements have the same class name so that elements can be styled
+with the same set of CSS Class selector style rules.
+
+Use of CSS for Page Style
+-A minimum of 3 style rules in the CSS file to style HTML elements, including at
+least one Class Selector style rule.
+-Each style rule should apply to the project's HTML file. Do not include class
+styles that are not used in the project's HTML file.
+
+Appropriate & Semantic Use of HTML Tags
+-Page uses HTML tags appropriately. For example, use a <p> for paragraphs, <h2>
+for sub-headers, <li> for list items.
+
+
+Content Review
+CRITERIA
+MEETS SPECIFICATIONS
+
+Include 1 or more images.
+-Page displays at least 1 image. The image can either be submitted with the
+project files, or it can be a hyperlink to the image source.
+
+Include 2 or more sections of text content
+-Page displays at least 2 sections of content. Content can be about any topic.
+Some examples include a portfolio, resume, story, research, or hobby.

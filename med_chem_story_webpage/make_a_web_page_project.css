@@ -1,0 +1,41 @@
+.body {
+  font-family: Comic Sans MS;
+}
+
+.head1 {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+    background-color: #db7f7f;
+    color: white;
+    font-size: 48px;
+    text-align: center;
+}
+
+.head2 {
+  background-color: #5cab71;
+  color: white;
+  padding: 5px;
+}
+
+.content {
+  color: #896767;
+}
+
+.mini_img{
+  width: 12px;
+  height: 12px;
+}
+
+.image_format{
+  display: inline-block;
+  display: flex;
+  justify-content: space-around;
+}
+
+.corgis {
+  width: 200px;
+  height: 200px;
+  border-radius: 25%;
+}
