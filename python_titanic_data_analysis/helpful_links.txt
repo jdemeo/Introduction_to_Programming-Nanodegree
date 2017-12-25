@@ -1,0 +1,29 @@
+***Documents used to assist in creation of project
+
+
+*Information on the Titanic
+http://www.history.com/topics/titanic
+
+*Titanic deckplans
+https://www.encyclopedia-titanica.org/titanic-deckplans/
+
+*To create a seabron swarmplot
+http://seaborn.pydata.org/generated/seaborn.swarmplot.html
+
+*To create a seaborn factorplot (suggested by 1st Project Reviewer)
+https://seaborn.pydata.org/generated/seaborn.factorplot.html
+
+*To set seaborn plot aesthetics
+http://seaborn.pydata.org/generated/seaborn.set.html
+
+*To change seaborn factorplot column titles
+https://stackoverflow.com/questions/24789671/change-the-title-of-factor-plot-in-seaborn
+
+*To edit a seaborn plot legend
+https://stackoverflow.com/questions/45201514/edit-seaborn-plot-figure-legend
+
+*To change location of legend in seaborn
+https://stackoverflow.com/questions/27019079/move-seaborn-plot-legend-to-a-different-position
+
+*To change legend text
+https://stackoverflow.com/questions/23037548/change-main-plot-legend-label-text
